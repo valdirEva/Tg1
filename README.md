@@ -213,7 +213,8 @@ para construir um objeto deste tipo.
 
  ![alt text](https://github.com/valdirEva/Tg1/blob/master/figura%203.png)
  
-Figura3 – Modelo Web MVC 
+					Figura3 – Modelo Web MVC 
+
 Na figura 3 podemos ver o Model onde se encontram as entidades que se comunicam com o Service , o Controller onde se encontram os controladores que fazem a comunicação entre a View e o Service.
 
 
@@ -240,7 +241,7 @@ papéis, além de fornecer proteção contra diversos ataques à aplicação. To
 
  ![alt text](https://github.com/valdirEva/Tg1/blob/master/figura%204.png)
                                        
-Figura 4- Modelo de classes de segurança.
+					Figura 4- Modelo de classes de segurança.
 
 ####3.2.1.4 Spring Data
 A persistência de dados pode ser um processo trabalhoso e repetitivo para a comunidade,
@@ -258,7 +259,7 @@ hoje um dos mais adotados no mundo.
 
  ![alt text](https://github.com/valdirEva/Tg1/blob/master/figura%205.png)
 
-Figura 5 – Modelo de utilização de spring data
+					Figura 5 – Modelo de utilização de spring data
 
 Na figura 4 podemos verificar a utilização do spring security na linha 65 passando os tipos de autorizações que podem utilizar o método atualizaMorador, e na linha 67 é realizado um save do objeto morador no banco de dados, sem precisar especificar cada atributo, o spring data já faz esse serviço e salva corretamente cada campo no banco de dados.
 
