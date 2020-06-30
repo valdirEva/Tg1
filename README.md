@@ -143,6 +143,7 @@ optar por salvar tais relatórios ou enviá-los por e-mail, de acordo com a nece
 usuário.
 
 ![alt text](https://github.com/valdirEva/Tg1/blob/master/figura%201.png)
+ 
  Figura 1 – Tela da aplicação SIN.
 
 Este sistema possui uma tela principal (Figura 1) com informações centralizadas
@@ -156,8 +157,10 @@ vírus ou backup, conforme cita a desenvolvedora em sua página (ICONDEV, 2017).
 Apesar de bastante completa, esta aplicação possui alguns pontos negativos. Um dos
 principais equívocos da desenvolvedora foi não fornecer uma funcionalidade para montagem da previsão orçamentária, uma obrigação legal e com penalidades para o condomínio (REPÚBLICA, 2002). O segundo ponto a ser observado é que, apesar de ter um funcionamento totalmente online, a aplicação exige a instalação de um componente no computador do usuário e, além disso, como este é um software escrito utilizando a linguagem de programação Java, é necessário que o computador tenha a JVM previamente instalada para que o sistema funcione. Esta questão, além de criar uma barreira de dificuldade para os clientes, os impedem de acessar o sistema pela maioria dos smartphones e tablets comercializados no mercado, pois estes requisitos limitam o uso do sistema a computadores. Por fim, apesar de simples e intuitiva, a interface gráfica do sistema não é responsiva, ficando ilegível em dispositivos com visores menores.
 O Immobile Condomínio é um software offline desenvolvido para a gestão de rotinas
+![alt text](https://github.com/valdirEva/Tg1/blob/master/figura%202.png)
 
- Figura 2 – Tela da aplicação Immobile Condomínio
+
+Figura 2 – Tela da aplicação Immobile Condomínio
 
 das administradoras de condomínios residenciais e comerciais, a fim de facilitar o trabalho
 realizado e a comunicação entre administradora, condôminos e síndicos. O sistema possui
