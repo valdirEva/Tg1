@@ -142,7 +142,7 @@ de lançamentos, demonstrativo de resultado e diversos relatórios financeiros. 
 optar por salvar tais relatórios ou enviá-los por e-mail, de acordo com a necessidade do
 usuário.
 
-![alt text](http://url/to/figura 1.png)
+![alt text](https://github.com/valdirEva/Tg1/blob/master/figura%201.png)
  Figura 1 – Tela da aplicação SIN.
 
 Este sistema possui uma tela principal (Figura 1) com informações centralizadas
