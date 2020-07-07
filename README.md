@@ -262,8 +262,8 @@ hoje um dos mais adotados no mundo.
 					Figura 5 – Modelo de utilização de spring data
 
 Na figura 4 podemos verificar a utilização do spring security na linha 65 passando os tipos de autorizações que podem utilizar o método atualizaMorador, e na linha 67 é realizado um save do objeto morador no banco de dados, sem precisar especificar cada atributo, o spring data já faz esse serviço e salva corretamente cada campo no banco de dados.
-
-
+### Repositório de desenvolvimento 
+https://github.com/valdirEva/condominio
 
  # REFERÊNCIAS
 
